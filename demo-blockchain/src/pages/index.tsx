@@ -102,7 +102,7 @@ const BlockchainDemo = () => {
           cursor: "pointer",
         }}
       >
-        Tambah Block testing 1111zasad
+        Tambah Block lagi
       </button>
     </div>
   );
