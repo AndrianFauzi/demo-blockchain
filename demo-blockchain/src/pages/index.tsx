@@ -13,7 +13,7 @@ const Block = ({ index, data, previousHash, hash, onDataChange }: any) => (
     <h3 style={{ marginTop: 0 }}>Block {index}</h3>
     <div>
       <label>
-        Data::::12
+        Data::::123
         <input
           type="text"
           value={data}
